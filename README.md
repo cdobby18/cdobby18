@@ -13,8 +13,6 @@
 ---
 
 ## 🧠 My Skills
-## 🧠 My Skills
-
 <div style="display: flex; flex-wrap: wrap; gap: 15px; align-items: center;">
 
   <!-- Programming Languages -->
