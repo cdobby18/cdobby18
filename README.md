@@ -13,31 +13,42 @@
 ---
 
 ## 🧠 My Skills
+<!-- Programming Languages -->
+<div style="display: flex; gap: 10px; flex-wrap: wrap; align-items: center;">
+  <img src="https://skillicons.dev/icons?i=cpp" alt="C++" height="40"/>
+  <img src="https://skillicons.dev/icons?i=python" alt="Python" height="40"/>
+  <img src="https://skillicons.dev/icons?i=php" alt="PHP" height="40"/>
+  <img src="https://skillicons.dev/icons?i=java" alt="Java" height="40"/>
+  <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" height="40"/>
+</div>
 
-<p align="center">
-  <!-- Programming Languages -->
-  <img src="https://skillicons.dev/icons?i=cpp,python,php,java,js" alt="Programming Languages" height="40"/>
-</p>
+<!-- AI & Machine Learning -->
+<div style="display: flex; gap: 10px; flex-wrap: wrap; align-items: center; margin-top: 10px;">
+  <img src="https://skillicons.dev/icons?i=scikitlearn" alt="Scikit-learn" height="40"/>
+  <img src="https://skillicons.dev/icons?i=tensorflow" alt="TensorFlow" height="40"/>
+  <img src="https://skillicons.dev/icons?i=pytorch" alt="PyTorch" height="40"/>
+  <img src="https://skillicons.dev/icons?i=huggingface" alt="Hugging Face" height="40"/>
+  <img src="https://skillicons.dev/icons?i=langchain" alt="LangChain" height="40"/>
+  <img src="https://skillicons.dev/icons?i=roboflow" alt="Roboflow" height="40"/>
+</div>
 
-<p align="center">
-  <!-- AI & Machine Learning -->
-  <img src="https://skillicons.dev/icons?i=scikitlearn,tensorflow,pytorch,huggingface,langchain,roboflow" alt="AI & ML" height="40"/>
-</p>
+<!-- Web & Mobile Development -->
+<div style="display: flex; gap: 10px; flex-wrap: wrap; align-items: center; margin-top: 10px;">
+  <img src="https://skillicons.dev/icons?i=react" alt="React" height="40"/>
+  <img src="https://skillicons.dev/icons?i=streamlit" alt="Streamlit" height="40"/>
+  <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" height="40"/>
+  <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" height="40"/>
+  <img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" height="40"/>
+</div>
 
-<p align="center">
-  <!-- Computer Vision -->
-  <img src="https://skillicons.dev/icons?i=opencv,mediapipe,yolo" alt="Computer Vision" height="40"/>
-</p>
-
-<p align="center">
-  <!-- Web & Mobile Development -->
-  <img src="https://skillicons.dev/icons?i=react,streamlit,nodejs,tailwind,bootstrap" alt="Web & Mobile Development" height="40"/>
-</p>
-
-<p align="center">
-  <!-- Database & Tools -->
-  <img src="https://skillicons.dev/icons?i=mysql,jupyter,git,vscode,cursor" alt="Database & Tools" height="40"/>
-</p>
+<!-- Database & Tools -->
+<div style="display: flex; gap: 10px; flex-wrap: wrap; align-items: center; margin-top: 10px;">
+  <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" height="40"/>
+  <img src="https://skillicons.dev/icons?i=jupyter" alt="Jupyter" height="40"/>
+  <img src="https://skillicons.dev/icons?i=git" alt="Git" height="40"/>
+  <img src="https://skillicons.dev/icons?i=vscode" alt="VSCode" height="40"/>
+  <img src="https://skillicons.dev/icons?i=cursor" alt="Cursor" height="40"/>
+</div>
 
 ## 📫 Connect With Me
 
