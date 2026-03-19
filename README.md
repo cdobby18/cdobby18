@@ -15,40 +15,29 @@
 ## 🧠 My Skills
 
 <p align="center">
-  <!-- Programming & Frameworks -->
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,python,php,java,js" alt="Programming & Frameworks"/>
-  </a>
+  <!-- Programming Languages -->
+  <img src="https://skillicons.dev/icons?i=cpp,python,php,java,js" alt="Programming Languages" height="40"/>
 </p>
 
 <p align="center">
   <!-- AI & Machine Learning -->
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=scikitlearn,tensorflow,pytorch,huggingface,langchain,roboflow" alt="AI & Machine Learning"/>
-  </a>
+  <img src="https://skillicons.dev/icons?i=scikitlearn,tensorflow,pytorch,huggingface,langchain,roboflow" alt="AI & ML" height="40"/>
 </p>
 
 <p align="center">
   <!-- Computer Vision -->
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=opencv,mediapipe,yolo" alt="Computer Vision"/>
-  </a>
+  <img src="https://skillicons.dev/icons?i=opencv,mediapipe,yolo" alt="Computer Vision" height="40"/>
 </p>
 
 <p align="center">
   <!-- Web & Mobile Development -->
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,react,streamlit,nodejs,tailwind,bootstrap" alt="Web & Mobile Development"/>
-  </a>
+  <img src="https://skillicons.dev/icons?i=react,streamlit,nodejs,tailwind,bootstrap" alt="Web & Mobile Development" height="40"/>
 </p>
 
 <p align="center">
   <!-- Database & Tools -->
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql,jupyter,git,kaggle,vscode,cursor" alt="Database & Tools"/>
-  </a>
+  <img src="https://skillicons.dev/icons?i=mysql,jupyter,git,vscode,cursor" alt="Database & Tools" height="40"/>
 </p>
----
 
 ## 📫 Connect With Me
 
