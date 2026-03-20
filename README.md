@@ -1,6 +1,6 @@
-<h3 align="center">
+<h1 align="center">
   Hi, I'm Carl Joshua M. Coloma
-</h3>
+</h1>
 
 <h3 align="center">
   Aspiring AI Engineer | Machine Learning Enthusiast | AI Builder
