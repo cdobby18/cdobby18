@@ -1,7 +1,6 @@
 <h1 align="center">
-  Hi, I'm Carl Joshua M. Coloma
+  Hi 👋, I'm Carl Joshua Coloma
 </h1>
-
 <h3 align="center">
   Aspiring AI Engineer | Machine Learning Enthusiast | AI Builder
 </h3>
