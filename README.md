@@ -1,8 +1,6 @@
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Verdana&size=36&pause=1000&color=FF5722&width=800&lines=Carl+Joshua+Coloma" alt="Typing SVG"/>
-  </a>
-</h1>
+<h3 align="center">
+  Hi, I'm Carl Joshua M. Coloma
+</h3>
 
 <h3 align="center">
   Aspiring AI Engineer | Machine Learning Enthusiast | AI Builder
