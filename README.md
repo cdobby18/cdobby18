@@ -12,21 +12,38 @@
 </p>
 
 ---
-
 ## 🧠 My Skills
 
 ### Programming Languages
-<img src="https://skillicons.dev/icons?i=cpp,python,php,java,js" height="50" style="margin:10px"/>
+<img src="https://skillicons.dev/icons?i=cpp" height="40"/> 
+<img src="https://skillicons.dev/icons?i=python" height="40"/> 
+<img src="https://skillicons.dev/icons?i=php" height="40"/> 
+<img src="https://skillicons.dev/icons?i=java" height="40"/> 
+<img src="https://skillicons.dev/icons?i=js" height="40"/>
 
 ### AI & Machine Learning
-<img src="https://skillicons.dev/icons?i=scikitlearn,tensorflow,pytorch,keras,langchain" height="50" style="margin:10px"/>
-NLP • Transformers • LLMs • Roboflow • Hugging Face
+<img src="https://skillicons.dev/icons?i=scikitlearn" height="40"/> 
+<img src="https://skillicons.dev/icons?i=tensorflow" height="40"/> 
+<img src="https://skillicons.dev/icons?i=pytorch" height="40"/> 
+<img src="https://skillicons.dev/icons?i=keras" height="40"/> 
+<img src="https://skillicons.dev/icons?i=langchain" height="40"/>
+<p>NLP • Transformers • LLMs • Roboflow • Hugging Face</p>
 
 ### Web & Mobile Development
-<img src="https://skillicons.dev/icons?i=react,reactnative,streamlit,nodejs,tailwind,bootstrap" height="50" style="margin:10px"/>
+<img src="https://skillicons.dev/icons?i=react" height="40"/> 
+<img src="https://skillicons.dev/icons?i=reactnative" height="40"/> 
+<img src="https://skillicons.dev/icons?i=streamlit" height="40"/> 
+<img src="https://skillicons.dev/icons?i=nodejs" height="40"/> 
+<img src="https://skillicons.dev/icons?i=tailwind" height="40"/> 
+<img src="https://skillicons.dev/icons?i=bootstrap" height="40"/>
 
 ### Tools & Database
-<img src="https://skillicons.dev/icons?i=mysql,jupyter,git,kaggle,vscode,cursor" height="50" style="margin:10px"/>
+<img src="https://skillicons.dev/icons?i=mysql" height="40"/> 
+<img src="https://skillicons.dev/icons?i=jupyter" height="40"/> 
+<img src="https://skillicons.dev/icons?i=git" height="40"/> 
+<img src="https://skillicons.dev/icons?i=kaggle" height="40"/> 
+<img src="https://skillicons.dev/icons?i=vscode" height="40"/> 
+<img src="https://skillicons.dev/icons?i=cursor" height="40"/>
 
 ---
 
