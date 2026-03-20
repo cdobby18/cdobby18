@@ -1,5 +1,9 @@
-<h1 align="center">Hi 👋, I'm Carl Joshua Coloma</h1> 
-<h3 align="center">Aspiring AI Engineer | Machine Learning Enthusiast | AI Builder</h3>
+<h1 align="center">Hi 👋, I'm Carl Joshua Coloma</h1>
+<h3 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=FF5722&width=500&lines=Aspiring+AI+Engineer;Machine+Learning+Enthusiast;AI+Builder" alt="Typing SVG"/>
+  </a>
+</h3>
 
 --- 
 
@@ -24,6 +28,15 @@
 
 ### Tools & Database 
 <img src="https://skillicons.dev/icons?i=mysql,git,vscode,jupyter" height="40" style="margin:5px 10px 5px 0"/> 
+
+--- 
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=cdobby18&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cdobby18&layout=compact&theme=radical" />
+</p>
 
 --- 
 
