@@ -2,6 +2,7 @@
 ### Aspiring AI Engineer | Machine Learning Enthusiast | AI Builder
 
 ---
+
 ## 🚀 About Me
 <p align="center">
 🧠 Currently learning **AI Engineering** <br>
@@ -15,27 +16,17 @@
 ## 🧠 My Skills
 
 ### Programming Languages
-<p align="center">
 <img src="https://skillicons.dev/icons?i=cpp,python,php,java,js" height="50" style="margin:10px"/>
-</p>
 
 ### AI & Machine Learning
-<p align="center">
 <img src="https://skillicons.dev/icons?i=scikitlearn,tensorflow,pytorch,keras,langchain" height="50" style="margin:10px"/>
-</p>
-<p align="center">
 NLP • Transformers • LLMs • Roboflow • Hugging Face
-</p>
 
 ### Web & Mobile Development
-<p align="center">
 <img src="https://skillicons.dev/icons?i=react,reactnative,streamlit,nodejs,tailwind,bootstrap" height="50" style="margin:10px"/>
-</p>
 
 ### Tools & Database
-<p align="center">
 <img src="https://skillicons.dev/icons?i=mysql,jupyter,git,kaggle,vscode,cursor" height="50" style="margin:10px"/>
-</p>
 
 ---
 
