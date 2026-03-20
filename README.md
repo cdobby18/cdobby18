@@ -1,13 +1,12 @@
-<h1 align="center">Hi 👋, I'm Carl Joshua Coloma</h1>
-<h3 align="center">Aspiring AI Engineer | Machine Learning Enthusiast | AI Builder</h3>
+# Hi 👋, I'm Carl Joshua Coloma
+### Aspiring AI Engineer | Machine Learning Enthusiast | AI Builder
 
 ---
-
 ## 🚀 About Me
 <p align="center">
-🧠 Currently learning <b>AI Engineering</b> <br>
-💻 Building projects in <b>Machine Learning, Computer Vision, and LLMs</b> <br>
-📚 Following a <b>Zero → AI Engineer roadmap</b> <br>
+🧠 Currently learning **AI Engineering** <br>
+💻 Building projects in **Machine Learning, Computer Vision, and LLMs** <br>
+📚 Following a **Zero → AI Engineer roadmap** <br>
 🌏 Based in the Philippines
 </p>
 
@@ -22,15 +21,10 @@
 
 ### AI & Machine Learning
 <p align="center">
-<img src="https://skillicons.dev/icons?i=scikitlearn,tensorflow,pytorch,keras,langchain,roboflow,huggingface" height="50" style="margin:10px"/>
+<img src="https://skillicons.dev/icons?i=scikitlearn,tensorflow,pytorch,keras,langchain" height="50" style="margin:10px"/>
 </p>
 <p align="center">
-NLP • Transformers • LLMs • LangChain
-</p>
-
-### Computer Vision
-<p align="center">
-<img src="https://skillicons.dev/icons?i=opencv,mediapipe,yolov8" height="50" style="margin:10px"/>
+NLP • Transformers • LLMs • Roboflow • Hugging Face
 </p>
 
 ### Web & Mobile Development
