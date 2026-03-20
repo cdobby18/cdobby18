@@ -1,6 +1,6 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1000&color=FF5722&width=500&lines=Carl+Joshua+Coloma" alt="Typing SVG"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Verdana&size=36&pause=1000&color=FF5722&width=800&lines=Carl+Joshua+Coloma" alt="Typing SVG"/>
   </a>
 </h1>
 
@@ -32,15 +32,6 @@
 
 ### Tools & Database 
 <img src="https://skillicons.dev/icons?i=mysql,git,vscode,jupyter" height="40" style="margin:5px 10px 5px 0"/> 
-
---- 
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cdobby18&show_icons=true&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cdobby18&layout=compact&theme=radical" />
-</p>
 
 --- 
 
