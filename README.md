@@ -9,10 +9,10 @@
 
 ## 🚀 About Me 
 
-- 🧠 Currently learning **AI Engineering** 
-- 💻 Building projects in **Machine Learning, Computer Vision, and LLMs** 
-- 📚 Following a **Zero → AI Engineer roadmap** 
-- 🌏 Based in the Philippines 
+- 🧠 Currently learning and developing skills to become an **AI Engineer**  
+- 💻 Building projects in **Machine Learning, Computer Vision, and Large Language Models (LLMs)**  
+- 📚 Continuously studying **Artificial Intelligence, Machine Learning, and Deep Learning**  
+- 🌏 Based in the **Philippines**
 
 --- 
 
