@@ -9,9 +9,9 @@
 
 ## 🚀 About Me 
 
-- 🧠 Currently learning and developing skills to become an **AI Engineer**  
+- 🧠 Learning and developing skills to become an **AI Engineer**  
 - 💻 Building projects in **Machine Learning, Computer Vision, and LLMs**  
-- 📚 Continuously studying **Artificial Intelligence, Machine Learning, and Deep Learning**  
+- 🤖 Passionate about building **real-world AI applications**  
 - 🌏 **Philippines**
 
 --- 
