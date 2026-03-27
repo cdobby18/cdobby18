@@ -19,7 +19,7 @@
 ## 🧠 My Skills 
 
 ### Programming Languages 
-<img src="https://skillicons.dev/icons?i=python,cpp,php,java,js" height="40" style="margin:5px 10px 5px 0"/> 
+<img src="https://skillicons.dev/icons?i=python,cpp,js" height="40" style="margin:5px 10px 5px 0"/> 
 
 ### AI & Machine Learning 
 <img src="https://skillicons.dev/icons?i=scikitlearn,tensorflow,pytorch,keras,langchain" height="40" style="margin:5px 10px 5px 0"/> 
