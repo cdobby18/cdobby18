@@ -10,7 +10,6 @@
 ## 🚀 About Me 
 
 - 🧠 Learning and developing skills to become an **AI Engineer**  
-- 💻 Building projects in **Machine Learning, Computer Vision, and LLMs**  
 - 🤖 Passionate about building **real-world AI applications**  
 - 🌏 **Philippines**
 
