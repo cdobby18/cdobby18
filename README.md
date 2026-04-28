@@ -1,9 +1,5 @@
-<h1 align="center">
-  Hi 👋, I'm Carl Joshua Coloma
-</h1>
-<h3 align="center">
-  Aspiring AI Engineer | Machine Learning Enthusiast | AI Builder
-</h3>
+<h1 align="center">Hi 👋, I'm Carl Joshua Coloma</h1>
+<h3 align="center">Aspiring AI Engineer | Machine Learning Enthusiast | AI Builder</h3>
 
 ---
 
@@ -11,29 +7,61 @@
 
 - 🧠 Learning and developing skills to become an **AI Engineer**  
 - 🤖 Passionate about building **real-world AI applications**  
-- 🌏 **Philippines**
+- 🌏 Based in the **Philippines**
 
---- 
+---
 
-## 🧠 My Skills 
+## 🧠 Tech Stack  
 
-### Programming Languages 
-<img src="https://skillicons.dev/icons?i=python,cpp,js" height="40" style="margin:5px 10px 5px 0"/> 
+### 💻 Programming & Frameworks  
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square)
+![React](https://img.shields.io/badge/-React-20232A?logo=react&logoColor=61DAFB&style=flat-square)
+![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?logo=streamlit&logoColor=white&style=flat-square)
+![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white&style=flat-square)
 
-### AI & Machine Learning 
-<img src="https://skillicons.dev/icons?i=scikitlearn,tensorflow,pytorch,keras,langchain" height="40" style="margin:5px 10px 5px 0"/> 
+---
 
-### Web & Mobile Development 
-<img src="https://skillicons.dev/icons?i=react,nodejs,tailwind,bootstrap" height="40" style="margin:5px 10px 5px 0"/> 
+### 🤖 Machine Learning & AI  
+![Scikit-learn](https://img.shields.io/badge/-Scikit--Learn-F7931E?logo=scikitlearn&logoColor=white&style=flat-square)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=flat-square)
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white&style=flat-square)
+![NLP](https://img.shields.io/badge/-Natural%20Language%20Processing-8A2BE2?style=flat-square)
 
-### Tools & Database 
-<img src="https://skillicons.dev/icons?i=mysql,git,vscode,jupyter" height="40" style="margin:5px 10px 5px 0"/> 
+---
 
---- 
+### 👁️ Computer Vision  
+![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?logo=opencv&logoColor=white&style=flat-square)
+![MediaPipe](https://img.shields.io/badge/-MediaPipe-0097A7?style=flat-square)
+![YOLOv8](https://img.shields.io/badge/-YOLOv8-FF1493?style=flat-square)
 
-## 📫 Connect With Me 
+---
+
+### ⚙️ Automation & Workflows  
+![n8n](https://img.shields.io/badge/-n8n-EA4B71?logo=n8n&logoColor=white&style=flat-square)
+
+---
+
+### 🗄️ Databases & Tools  
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat-square)
+![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?logo=jupyter&logoColor=white&style=flat-square)
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat-square)
+![Kaggle](https://img.shields.io/badge/-Kaggle-20BEFF?logo=kaggle&logoColor=white&style=flat-square)
+![VSCode](https://img.shields.io/badge/-VSCode-007ACC?logo=visualstudiocode&logoColor=white&style=flat-square)
+![Cursor](https://img.shields.io/badge/-Cursor-000000?style=flat-square)
+
+---
+
+## 📫 Connect With Me  
+
 <p align="center">
-  <a href="https://github.com/cdobby18"> <img src="https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white" style="height:50px; margin:5px"/> </a> 
-  <a href="https://www.linkedin.com/in/carl-joshua-coloma"> <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" style="height:50px; margin:5px"/> </a> 
-  <a href="https://colomaportfolio.vercel.app/"> <img src="https://img.shields.io/badge/Portfolio-%23FF5722.svg?style=for-the-badge&logo=vercel&logoColor=white" style="height:50px; margin:5px"/> </a>
+  <a href="https://github.com/cdobby18">
+    <img src="https://img.shields.io/badge/GitHub-12100E?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/carl-joshua-coloma">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://colomaportfolio.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
 </p>
