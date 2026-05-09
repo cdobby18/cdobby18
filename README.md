@@ -9,7 +9,7 @@
 
 - 🧠 Currently following a structured **AI Engineering roadmap** 
 - 📍 Based in the **Philippines** 
-- 🎯 Goal: First junior AI Engineer role with real, deployed projects — not just certificates
+- 🎯 Goal: AI Engineer
 
 ---
 
