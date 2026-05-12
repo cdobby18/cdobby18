@@ -8,7 +8,7 @@
 ## 🚀 About Me
 
 - 🧠 Currently following a structured **AI Engineering roadmap** 
-- 📍 Based in the **Philippines** 
+- 📍  Based in the **Philippines** 
 - 🎯 Goal: AI Engineer
 
 ---
