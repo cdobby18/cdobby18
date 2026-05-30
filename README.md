@@ -4,8 +4,7 @@
 
 **Aspiring AI Engineer · Building Real Systems, Not Just Studying Them**
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3C14C6&center=true&vCenter=true&width=435&lines=Aspiring+AI+Engineer;Currently+Building%2C+Not+Just+Learning)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&pause=1000&color=EF874D&center=true&width=435&lines=Aspiring+AI+Engineer;Currently+Building%2C+Not+Just+Learning)](https://git.io/typing-svg)
 
 <p>
   <a href="https://github.com/cdobby18"><img src="https://img.shields.io/badge/GitHub-12100E?style=for-the-badge&logo=github&logoColor=white"/></a>
