@@ -56,8 +56,6 @@ I'm an aspiring **AI Engineer** based in the **Philippines**, focused on buildin
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC?logo=visualstudiocode&logoColor=white&style=flat-square)
 
 ---
-![Contribution Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mayur-Pagote&theme=radical)
----
 
 ## What I'm Working On
 
