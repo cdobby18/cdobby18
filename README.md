@@ -70,11 +70,5 @@ I'm an aspiring **AI Engineer** based in the **Philippines**, focused on buildin
 ---
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=cdobby18&theme=tokyo-night&hide_border=true&area=true"/>
-</div>
-
----
-
-<div align="center">
   <em>Currently building. Not just learning.</em>
 </div>
