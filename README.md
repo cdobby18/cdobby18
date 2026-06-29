@@ -20,27 +20,7 @@
 
 ## About
 
-CS grad from the Philippines working toward a role as an **AI Engineer** — focused on LLM systems, RAG pipelines, and production AI backends. I follow a structured 8-phase roadmap; every phase ends with a real shipped project. No tutorial hell.
-
-- Target: **AI Engineer** (LLM systems · RAG · computer vision · full-stack AI)
-- Currently: **Phase 4 — NLP + Transformers** → building BERT-powered semantic search
-- Next up: LLMs, prompt engineering, LangChain, LangGraph, agents
-
----
-
-## AI Engineering Roadmap
-
-> Full documentation: [AI-Roadmap](https://github.com/cdobby18/AI-Roadmap)
-
-| Phase | Topic | Status |
-|-------|-------|--------|
-| 1 | Python · OOP · DSA · SQL | ✅ Complete |
-| 2 | FastAPI · JWT Auth · Background Tasks | ✅ Complete |
-| 3 | Classical ML · PyTorch · W&B · Gradio | ✅ Complete |
-| 4 | NLP · Tokenization · Transformers · BERT | 🔄 Active |
-| 5 | LLMs · Prompt Engineering · Observability | ⬜ Next |
-| 6 | RAG · LangChain · LangGraph · Agents · MCP | ⬜ Upcoming |
-| 7 | Docker · CI/CD · Production Deploy | ⬜ Upcoming |
+Aspiring **AI Engineer** from the Philippines — building LLM systems, RAG pipelines, and computer vision tools. Currently working through a structured roadmap, one shipped project at a time.
 
 ---
 
@@ -80,21 +60,6 @@ CS grad from the Philippines working toward a role as an **AI Engineer** — foc
 ![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?logo=kaggle&logoColor=white&style=flat-square)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white&style=flat-square)
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?logo=n8n&logoColor=white&style=flat-square)
-
-</div>
-
----
-
-## GitHub Stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=cdobby18&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cdobby18&layout=compact&theme=dark&hide_border=true&langs_count=6" />
-
-<br><br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=cdobby18&theme=dark&hide_border=true" />
 
 </div>
 
