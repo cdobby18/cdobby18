@@ -12,6 +12,8 @@
   <a href="https://carlcoloma.vercel.app"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 </p>
 
+<br>
+
 </div>
 
 ---
@@ -23,36 +25,6 @@ CS grad from the Philippines working toward a role as an **AI Engineer** — foc
 - Target: **AI Engineer** (LLM systems · RAG · computer vision · full-stack AI)
 - Currently: **Phase 4 — NLP + Transformers** → building BERT-powered semantic search
 - Next up: LLMs, prompt engineering, LangChain, LangGraph, agents
-
----
-
-## Shipped Projects
-
-### [Vivre Card](https://github.com/cdobby18/AI-Roadmap/tree/main/8-Projects/phase-4-vivre-card) — Semantic Character Search Engine *(Phase 4)*
-> Describe a One Piece character in plain English — BERT returns the most semantically similar characters ranked by cosine similarity. Exact concept powering RAG retrieval, just with 25 characters instead of 10K document chunks.
-
-`BERT` `HuggingFace Transformers` `PyTorch` `Cosine Similarity` `Mean Pooling` `Gradio`
-
----
-
-### [BountyHunter](https://github.com/cdobby18/AI-Roadmap/tree/main/8-Projects/phase-3-bountyhunter) — Full ML Pipeline *(Phase 3)*
-> End-to-end ML system: generates synthetic data → trains sklearn baselines → builds a 3-layer PyTorch neural net → logs all experiments to W&B → deploys as a Gradio web app.
-
-`PyTorch` `scikit-learn` `W&B` `Gradio` `NumPy` `Pandas`
-
----
-
-### [Grand Line API](https://github.com/cdobby18/AI-Roadmap/tree/main/8-Projects/phase-2-grandlineAPI) — REST API with JWT Auth *(Phase 2)*
-> Production-ready FastAPI backend: JWT authentication, Pydantic request validation, async endpoints, background task processing.
-
-`FastAPI` `JWT` `Pydantic` `asyncio` `SQLite`
-
----
-
-### [DevilFruit Processor](https://github.com/cdobby18/AI-Roadmap/tree/main/8-Projects/phase-1-devilfruit) — OOP Text Pipeline *(Phase 1)*
-> Text preprocessing system built with full OOP (method chaining, magic methods, file I/O), external API calls for language detection.
-
-`Python` `OOP` `requests`
 
 ---
 
@@ -74,6 +46,8 @@ CS grad from the Philippines working toward a role as an **AI Engineer** — foc
 
 ## Tech Stack
 
+<div align="center">
+
 **AI / ML**
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white&style=flat-square)
@@ -84,6 +58,8 @@ CS grad from the Philippines working toward a role as an **AI Engineer** — foc
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white&style=flat-square)
 ![MediaPipe](https://img.shields.io/badge/MediaPipe-0097A7?style=flat-square)
 
+<br>
+
 **Backend & Data**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-square)
@@ -92,6 +68,8 @@ CS grad from the Philippines working toward a role as an **AI Engineer** — foc
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=flat-square)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square)
 ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB&style=flat-square)
+
+<br>
 
 **Tools & Infrastructure**
 
@@ -103,6 +81,8 @@ CS grad from the Philippines working toward a role as an **AI Engineer** — foc
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white&style=flat-square)
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?logo=n8n&logoColor=white&style=flat-square)
 
+</div>
+
 ---
 
 ## GitHub Stats
@@ -111,6 +91,8 @@ CS grad from the Philippines working toward a role as an **AI Engineer** — foc
 
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=cdobby18&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true" />
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cdobby18&layout=compact&theme=dark&hide_border=true&langs_count=6" />
+
+<br><br>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=cdobby18&theme=dark&hide_border=true" />
 
