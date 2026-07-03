@@ -1,10 +1,11 @@
+
 <div align="center">
 
 # Hi, I'm CJ 👋
 
 **Aspiring AI Engineer · Building Real Systems, Not Just Studying Them**
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=EF874D&center=true&width=600&lines=AI+Engineer+in+Progress+%F0%9F%87%B5%F0%9F%87%AD;BERT+%7C+PyTorch+%7C+RAG+Pipelines+%7C+Agents;Currently%3A+NLP+%2B+Transformers+%E2%86%92+LLMs)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=EF874D&center=true&width=600&lines=aspiring+ai+engineer)](https://git.io/typing-svg)
 
 <p>
   <a href="https://github.com/cdobby18"><img src="https://img.shields.io/badge/GitHub-12100E?style=for-the-badge&logo=github&logoColor=white"/></a>
