@@ -67,5 +67,5 @@ Aspiring **AI Engineer** from the Philippines — building LLM systems, RAG pipe
 ---
 
 <div align="center">
-  <sub>Phase 4 of 7 · NLP + Transformers · Philippines 🇵🇭</sub>
+  <sub>AI Engineer · Philippines 🇵🇭</sub>
 </div>
